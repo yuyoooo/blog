@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /img/logo.jpg
-heroText: 余宏德的小世界
+heroText: 余宏德yu000000000000000的小世界
 tagline: 吾日三省吾身
 actionText: Get Started →
 actionLink: /zh/guide/
